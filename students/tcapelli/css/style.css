@@ -1,7 +1,9 @@
 
     p { 
-        color: darkred; 
+        color: darkblue; 
         font-size:4em;
-        background-color:grey;
+        background-color:lightgrey;
     }
-    
+   p {
+        font-family: 'Lobster', cursive;
+    }
